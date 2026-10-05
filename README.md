@@ -7,6 +7,13 @@ issues with their fixes.
 This repository hosts **releases only**.
 **[Download the latest release](https://github.com/AdmiralTolwyn/aibhound_public/releases/latest)**
 
+![Customizations: each template customizer with its step, and the flame chart](screenshots/customizations.png)
+
+| | |
+|---|---|
+| ![Image templates](screenshots/templates.png) | ![Run output](screenshots/run-output.png) |
+| ![Health and cost](screenshots/health-cost.png) | ![Distributions](screenshots/distributions.png) |
+
 ## Install
 
 Requires Windows 10 or 11 (x64).
