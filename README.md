@@ -9,10 +9,13 @@ This repository hosts **releases only**.
 
 ![Customizations: each template customizer with its step, and the flame chart](screenshots/customizations.png)
 
-| | |
+| Dark | Light |
 |---|---|
-| ![Image templates](screenshots/templates.png) | ![Run output](screenshots/run-output.png) |
-| ![Health and cost](screenshots/health-cost.png) | ![Distributions](screenshots/distributions.png) |
+| ![Image templates](screenshots/templates.png) | ![Image templates, light](screenshots/templates-light.png) |
+| ![Run output](screenshots/run-output.png) | ![Run output, light](screenshots/run-output-light.png) |
+| ![Health and cost](screenshots/health-cost.png) | ![Health and cost, light](screenshots/health-cost-light.png) |
+| ![Distributions](screenshots/distributions.png) | ![Distributions, light](screenshots/distributions-light.png) |
+| ![Customizations](screenshots/customizations.png) | ![Customizations, light](screenshots/customizations-light.png) |
 
 ## Install
 
