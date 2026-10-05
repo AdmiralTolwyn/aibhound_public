@@ -1,0 +1,41 @@
+AIBHound End User License Agreement
+
+Copyright (c) 2026 AdmiralTolwyn. All rights reserved.
+
+By installing or using AIBHound ("the Software") you agree to these terms.
+
+1. License. You may install and use the Software free of charge, for
+   personal or business purposes, on any number of devices.
+
+2. Restrictions. You may not:
+   a. sell, rent, lease, sublicense or redistribute the Software, except by
+      sharing a link to its official download page;
+   b. modify, reverse engineer, decompile or disassemble the Software,
+      except where applicable law expressly permits it despite this
+      limitation;
+   c. remove or alter any copyright or license notices.
+
+3. Third-party components. The Software includes third-party components,
+   including open-source software and the Microsoft Visual C++ runtime. Each
+   is licensed under its own terms, which govern that component and are
+   listed in the Software under Settings > About > Open-source licenses.
+   Nothing in this agreement limits your rights under those licenses.
+
+4. Azure and your organization. The Software acts on your behalf with your
+   own Microsoft Entra ID sign-in and Azure permissions. You are responsible
+   for the actions you take with it, such as cancelling a build, and for
+   following your organization's policies and the terms of the Azure services
+   you use. The Software is not affiliated with or endorsed by Microsoft.
+
+5. No warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. Cost estimates are
+   approximate and are not a bill or a quote.
+
+6. Limitation of liability. TO THE EXTENT PERMITTED BY LAW, IN NO EVENT
+   SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+   WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+   CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+7. Termination. This license ends automatically if you breach it. You must
+   then stop using the Software and delete all copies.
